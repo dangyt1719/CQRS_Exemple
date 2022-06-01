@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h3 >The test of iFrame with NTLM authentication</h3>
+    <iframe id="iframe1"></iframe>
+</div>
+ <script>
+     var iframe1 = document.getElementById('iframe1');
+iframe1.style.height = '200px';
+iframe1.style.width = '400px';
+iframe1.src = 'https://registry-test-api.ibs.ru/test';
+iframe1.onload = function() {
+//    var frameDocument = iframe1.contentDocument ? iframe1.contentDocument : iframe1.contentWindow.document;
+//console.log(this.contentWindow);
+//if (frameDocument.document)frameDocument = frameDocument.document;
+//console.log(frameDocument);
+}
+var xhttp = new XMLHttpRequest();
+xhttp.open("GET", "https://registry-test-api.ibs.ru/get-employee-money?pernr=00125167", true);//https://registry-test-api.ibs.ru/test
+xhttp.withCredentials = true;
+xhttp.send();
+xhttp.onreadystatechange = function(){
+  if (xhttp.readyState === XMLHttpRequest.DONE) {
+    if (xhttp.status === 200){
+      console.log(xhttp.responseText);
+    }
+    else{
+      console.log('There was a problem with the request.');
+      console.log(xhttp);
+    }
+  }
+};
+
+     
+ </script>
+

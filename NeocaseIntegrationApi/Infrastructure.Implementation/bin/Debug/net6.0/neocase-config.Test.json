@@ -1,0 +1,10 @@
+{
+	"ConnectionStrings": {
+		"NeocaseDb": "Data Source=IB-OCO-DB-TEST;User ID=NEOCASE_AUTO;Password=jCKlWCE5mSBIpe;Max Pool Size=500"
+	},
+	"NeoSettings": {
+		"Instanse": "OCOTEST.IBS.RU:80",
+		"Login": "ROBOT",
+		"Password": "HH98mqN5_t"
+	}
+}

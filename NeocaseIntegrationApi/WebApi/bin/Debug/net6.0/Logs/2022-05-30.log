@@ -1,0 +1,3 @@
+2022-05-30 08:14:30.8095||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring 
+2022-05-30 08:24:45.1864||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring 
+2022-05-30 08:25:21.4529||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring 

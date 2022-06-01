@@ -1,0 +1,591 @@
+2022-05-27 13:52:53.5309||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 13:52:53.5582||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 13:52:53.5878||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 13:52:53.5878||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 13:52:53.5878||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 13:52:53.5878||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 13:52:53.5878||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 13:52:53.5878||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 13:52:53.5878||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 13:52:53.5878||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 13:52:53.6199||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 13:52:53.7761|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 13:52:53.7761|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 13:52:53.7761||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 13:52:53.7889||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 13:52:53.7889||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 13:52:54.1259||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 13:52:54.1852||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 13:52:54.1852||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 13:52:54.2046||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 13:52:54.2181||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 13:52:54.2576||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 13:53:38.6780||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 13:53:38.7085||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 13:53:38.7366||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 13:53:38.7366||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 13:53:38.7425||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 13:53:38.7425||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 13:53:38.7425||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 13:53:38.7425||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 13:53:38.7425||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 13:53:38.7425||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 13:53:38.7855||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 13:53:38.9602|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 13:53:38.9732|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 13:53:38.9732||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 13:53:38.9801||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 13:53:38.9801||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 13:53:39.3177||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 13:53:39.3744||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 13:53:39.3744||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 13:53:39.4135||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 13:53:39.4135||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 13:53:39.4510||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 13:53:54.0234||ERROR|Infrastructure.Implementation.Repositories.CaseRepository|Database 'NC16OCO' cannot be opened. It is in the middle of a restore. 
+2022-05-27 13:53:54.0793||ERROR|WebApi.Controllers.CommonController|Database 'NC16OCO' cannot be opened. It is in the middle of a restore. 
+2022-05-27 13:54:56.4597||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 13:54:56.4824||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 13:54:56.5133||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 13:54:56.5133||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 13:54:56.5133||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 13:54:56.5247||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 13:54:56.5247||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 13:54:56.5247||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 13:54:56.5247||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 13:54:56.5247||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 13:54:56.5465||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 13:54:56.6713|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 13:54:56.6809|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 13:54:56.6809||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 13:54:56.6809||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 13:54:56.6809||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 13:54:56.9588||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 13:54:57.0164||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 13:54:57.0164||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 13:54:57.0388||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 13:54:57.0500||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 13:54:57.0867||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 13:55:59.5992||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 13:55:59.6216||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 13:55:59.6477||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 13:55:59.6500||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 13:55:59.6500||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 13:55:59.6500||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 13:55:59.6500||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 13:55:59.6500||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 13:55:59.6500||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 13:55:59.6500||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 13:55:59.6812||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 13:55:59.8072|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 13:55:59.8072|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 13:55:59.8072||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 13:55:59.8072||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 13:55:59.8072||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 13:56:00.0573||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 13:56:00.0966||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 13:56:00.0966||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 13:56:00.1132||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 13:56:00.1254||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 13:56:00.1531||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 13:56:41.4070||ERROR|Infrastructure.Implementation.Repositories.CaseRepository|Unrecognized Guid format. 
+2022-05-27 13:56:41.4682||ERROR|WebApi.Controllers.CommonController|Unrecognized Guid format. 
+2022-05-27 13:59:57.4842||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 13:59:57.5186||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 13:59:57.5544||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 13:59:57.5544||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 13:59:57.5544||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 13:59:57.5719||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 13:59:57.5719||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 13:59:57.5719||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 13:59:57.5719||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 13:59:57.5719||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 13:59:57.6004||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 13:59:57.8150|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 13:59:57.8265|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 13:59:57.8265||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 13:59:57.8265||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 13:59:57.8265||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 13:59:58.2151||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 13:59:58.2876||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 13:59:58.2948||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 13:59:58.3219||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 13:59:58.3360||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 13:59:58.3790||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 14:01:17.9080||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 14:01:17.9439||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 14:01:17.9746||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 14:01:17.9771||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 14:01:17.9771||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 14:01:17.9771||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 14:01:17.9771||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 14:01:17.9771||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 14:01:17.9771||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 14:01:17.9771||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 14:01:18.0084||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 14:01:18.1448|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 14:01:18.1552|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 14:01:18.1552||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 14:01:18.1552||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 14:01:18.1552||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 14:01:18.4101||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 14:01:18.4503||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 14:01:18.4503||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 14:01:18.4648||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 14:01:18.4648||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 14:01:18.4983||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 14:02:54.4548||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 14:02:54.4823||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 14:02:54.5214||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 14:02:54.5247||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 14:02:54.5247||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 14:02:54.5247||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 14:02:54.5247||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 14:02:54.5398||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 14:02:54.5398||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 14:02:54.5398||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 14:02:54.5658||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 14:02:54.8696|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 14:02:54.8696|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 14:02:54.8853||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 14:02:54.8853||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 14:02:54.8853||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 14:02:55.1482||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 14:02:55.1945||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 14:02:55.1970||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 14:02:55.1970||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 14:02:55.2218||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 14:02:55.2422||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 14:03:30.4579||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 14:05:08.1622||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 14:05:08.1886||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 14:05:08.2273||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 14:05:08.2273||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 14:05:08.2273||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 14:05:08.2465||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 14:05:08.2465||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 14:05:08.2465||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 14:05:08.2465||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 14:05:08.2465||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 14:05:08.2787||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 14:05:08.4592|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 14:05:08.4726|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 14:05:08.4777||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 14:05:08.4777||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 14:05:08.4777||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 14:05:08.8906||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 14:05:08.9392||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 14:05:08.9392||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 14:05:08.9591||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 14:05:08.9799||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 14:05:09.0097||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 14:06:14.2631||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 14:17:35.1837||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 14:17:35.2079||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 14:17:35.2384||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 14:17:35.2384||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 14:17:35.2384||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 14:17:35.2520||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 14:17:35.2520||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 14:17:35.2520||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 14:17:35.2520||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 14:17:35.2520||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 14:17:35.2790||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 14:17:35.4628|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 14:17:35.4734|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 14:17:35.4734||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 14:17:35.4734||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 14:17:35.4734||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 14:17:35.7646||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 14:17:35.8098||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 14:17:35.8098||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 14:17:35.8327||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 14:17:35.8432||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 14:17:35.8646||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 14:18:26.6178||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 14:18:26.6459||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 14:18:26.6811||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 14:18:26.6811||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 14:18:26.6936||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 14:18:26.7021||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 14:18:26.7021||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 14:18:26.7021||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 14:18:26.7021||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 14:18:26.7021||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 14:18:26.7350||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 14:18:26.9325|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 14:18:26.9521|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 14:18:26.9521||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 14:18:26.9521||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 14:18:26.9521||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 14:18:27.3788||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 14:18:27.4333||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 14:18:27.4333||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 14:18:27.4498||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 14:18:27.4664||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 14:18:27.5010||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:00:05.4041||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:00:05.4305||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:00:05.4643||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:00:05.4643||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:00:05.4643||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:00:05.4761||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:00:05.4761||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:00:05.4761||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:00:05.4761||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:00:05.4761||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:00:05.4988||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:00:05.6405|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:00:05.6529|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:00:05.6529||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:00:05.6529||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:00:05.6529||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:00:06.0123||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:00:06.0671||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:00:06.0700||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:00:06.0859||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:00:06.0859||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:00:06.1219||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:01:30.0346||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:01:30.0755||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:01:30.1308||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:01:30.1374||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:01:30.1374||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:01:30.1503||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:01:30.1503||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:01:30.1503||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:01:30.1503||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:01:30.1503||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:01:30.1868||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:01:30.3612|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:01:30.3710|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:01:30.3710||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:01:30.3710||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:01:30.3710||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:01:30.6139||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:01:30.6556||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:01:30.6556||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:01:30.6709||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:01:30.6798||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:01:30.7194||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:02:25.5447||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:02:25.5823||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:02:25.6171||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:02:25.6171||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:02:25.6171||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:02:25.6318||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:02:25.6318||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:02:25.6318||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:02:25.6318||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:02:25.6318||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:02:25.6591||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:02:25.8083|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:02:25.8218|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:02:25.8218||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:02:25.8218||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:02:25.8218||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:02:26.1942||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:02:26.2616||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:02:26.2616||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:02:26.2802||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:02:26.2909||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:02:26.3232||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:02:41.4553||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 15:04:03.2276||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:04:03.2534||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:04:03.2837||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:04:03.2837||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:04:03.2885||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:04:03.2885||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:04:03.2885||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:04:03.2885||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:04:03.2885||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:04:03.2885||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:04:03.3187||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:04:03.4496|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:04:03.4594|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:04:03.4594||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:04:03.4594||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:04:03.4594||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:04:03.7107||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:04:03.7525||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:04:03.7525||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:04:03.7669||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:04:03.7762||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:04:03.7995||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:09:26.8262||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:09:26.8574||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:09:26.8980||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:09:26.8980||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:09:26.9113||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:09:26.9113||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:09:26.9113||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:09:26.9327||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:09:26.9327||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:09:26.9327||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:09:26.9739||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:09:27.2192|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:09:27.2303|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:09:27.2303||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:09:27.2303||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:09:27.2303||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:09:27.5660||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:09:27.6206||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:09:27.6206||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:09:27.6378||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:09:27.6480||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:09:27.6728||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:10:13.5914||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:10:13.6308||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:10:13.6701||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:10:13.6766||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:10:13.6766||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:10:13.6766||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:10:13.6766||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:10:13.6918||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:10:13.6918||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:10:13.6918||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:10:13.7287||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:10:13.9158|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:10:13.9268|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:10:13.9268||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:10:13.9268||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:10:13.9268||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:10:14.1948||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:10:14.2465||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:10:14.2465||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:10:14.2711||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:10:14.2932||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:10:14.3245||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:11:23.4004||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 15:12:38.1102||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:12:38.1325||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:12:38.1613||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:12:38.1613||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:12:38.1613||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:12:38.1613||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:12:38.1613||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:12:38.1749||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:12:38.1749||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:12:38.1749||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:12:38.1982||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:12:38.3742|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:12:38.3880|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:12:38.3880||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:12:38.3982||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:12:38.3982||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:12:38.9008||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:12:38.9768||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:12:38.9768||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:12:38.9953||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:12:39.0100||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:12:39.0438||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:13:01.7340||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 15:15:59.5485||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:15:59.5788||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:15:59.6157||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:15:59.6157||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:15:59.6289||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:15:59.6289||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:15:59.6289||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:15:59.6431||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:15:59.6431||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:15:59.6431||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:15:59.6685||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:15:59.8669|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:15:59.8822|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:15:59.8822||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:15:59.8945||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:15:59.8945||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:16:00.2357||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:16:00.2950||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:16:00.2950||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:16:00.3303||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:16:00.3303||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:16:00.3713||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:16:20.5844||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 15:16:34.5627||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 15:16:34.5896||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 15:16:34.6206||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 15:16:34.6206||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 15:16:34.6264||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 15:16:34.6264||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 15:16:34.6264||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 15:16:34.6264||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 15:16:34.6264||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 15:16:34.6264||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 15:16:34.6577||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 15:16:34.8605|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 15:16:34.8605|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 15:16:34.8782||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 15:16:34.8782||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 15:16:34.8782||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 15:16:35.2103||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 15:16:35.2713||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 15:16:35.2713||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 15:16:35.2879||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 15:16:35.2992||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 15:16:35.3240||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 
+2022-05-27 15:17:21.7780||ERROR|NeocaseProviderLibrary.Providers.NeocaseCaseProvider|Не удалось открыть заявку 20006289 -  
+2022-05-27 16:15:00.4215||INFO|Quartz.Util.DBConnectionManager|Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider' 
+2022-05-27 16:15:00.4461||INFO|Quartz.Impl.StdSchedulerFactory|Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json 
+2022-05-27 16:15:00.4800||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-05-27 16:15:00.4800||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-05-27 16:15:00.4800||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-05-27 16:15:00.4926||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Using thread monitor-based data access locking (synchronization). 
+2022-05-27 16:15:00.4926||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|JobStoreTX initialized. 
+2022-05-27 16:15:00.4926||INFO|Quartz.Core.QuartzScheduler|Scheduler meta-data: Quartz Scheduler (v3.4.0.0) 'QuartzSchedulerService' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+ 
+2022-05-27 16:15:00.4926||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler 'QuartzSchedulerService' initialized 
+2022-05-27 16:15:00.4926||INFO|Quartz.Impl.StdSchedulerFactory|Quartz scheduler version: 3.4.0.0 
+2022-05-27 16:15:00.5137||INFO|Quartz.ContainerConfigurationProcessor|Adding 0 jobs, 0 triggers. 
+2022-05-27 16:15:00.6556|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7298 
+2022-05-27 16:15:00.6625|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5298 
+2022-05-27 16:15:00.6625||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-27 16:15:00.6625||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-27 16:15:00.6625||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebApi\ 
+2022-05-27 16:15:00.9352||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Freed 0 triggers from 'acquired' / 'blocked' state. 
+2022-05-27 16:15:00.9833||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovering 0 jobs that were in-progress at the time of the last shut-down. 
+2022-05-27 16:15:00.9833||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Recovery complete. 
+2022-05-27 16:15:01.0105||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 'complete' triggers. 
+2022-05-27 16:15:01.0105||INFO|Quartz.Impl.AdoJobStore.JobStoreTX|Removed 0 stale fired job entries. 
+2022-05-27 16:15:01.0508||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzSchedulerService_$_NON_CLUSTERED started. 

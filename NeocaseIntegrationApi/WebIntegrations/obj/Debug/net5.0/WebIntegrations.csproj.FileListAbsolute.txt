@@ -1,0 +1,12 @@
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\bin\Debug\net5.0\WebIntegrations.deps.json
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\bin\Debug\net5.0\WebIntegrations.dll
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\bin\Debug\net5.0\WebIntegrations.pdb
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.csproj.AssemblyReference.cache
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.AssemblyInfoInputs.cache
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.AssemblyInfo.cs
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.csproj.CoreCompileInputs.cache
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.dll
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\refint\WebIntegrations.dll
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\WebIntegrations.pdb
+C:\Users\ADangyt\OCO-GitLab\NeocaseIntegrationApi\WebIntegrations\obj\Debug\net5.0\ref\WebIntegrations.dll
